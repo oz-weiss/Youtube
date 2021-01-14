@@ -10,7 +10,7 @@ Earthquakes data analyzation through the years, deductive reasoning and paramete
 ## Data Cleaning
 * Exploring & improving the data
 * Format normalization
-* nulls handling
+* Nulls handling
 * Outliners handling
 
 
