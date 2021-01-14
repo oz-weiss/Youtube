@@ -11,6 +11,8 @@ Earthquakes data analyzation through the years, deductive reasoning and paramete
 * Exploring & improving the data
 * Format normalization
 * nulls handling
+* Outliners handling
+
 
 ## Visualisation
 * Explaining the data through graphs
