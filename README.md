@@ -7,10 +7,8 @@ Earthquakes data analyzation through the years, deductive reasoning and paramete
 ## Acquisition
 * Data from kaggele
 
-Concat all information to one database
-
 ## Data Cleaning
- *Exploring & improving the data
+* Exploring & improving the data
 * Format normalization
 * nulls handling
 
