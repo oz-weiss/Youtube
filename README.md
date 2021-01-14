@@ -18,10 +18,6 @@ Earthquakes data analyzation through the years, deductive reasoning and paramete
 * Explaining the data through graphs
 
 ## Machine Learning
-* Predict the volume of the next earthquake by location
-* Predict the probability to low, medium & high earthquakes by location
+* # Predicting amount of likes for a video
 
-## Interpretion
 
-* what we found
-- You will find addition information in the project presentation
