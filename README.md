@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://images-na.ssl-images-amazon.com/images/I/51jFl-Tq-lL._AC_SX569_.jpg">
-  <h2 align="center">YouTube</h2>
 </p>
 
 ## Main Purpose
-Earthquakes data analyzation through the years, deductive reasoning and parameters prediction using ML
-
+YouTube data analyzation, deductive reasoning and parameters prediction
 
 ## Acquisition
 * Data from kaggele
