@@ -10,14 +10,12 @@ Earthquakes data analyzation through the years, deductive reasoning and paramete
 Concat all information to one database
 
 ## Data Cleaning
-Exploring & improving the data
+ *Exploring & improving the data
 * Format normalization
-* Duplicates & nulls handling
-
+* nulls handling
 
 ## Visualisation
 * Explaining the data through graphs
-* Buiild interactive maps according to locationes, times & volumes
 
 ## Machine Learning
 * Predict the volume of the next earthquake by location
