@@ -18,6 +18,6 @@ Earthquakes data analyzation through the years, deductive reasoning and paramete
 * Explaining the data through graphs
 
 ## Machine Learning
-* # Predicting amount of likes for a video
+* Predicting amount of likes for a video
 
 
