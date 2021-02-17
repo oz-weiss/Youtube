@@ -3,7 +3,7 @@
 </p>
 
 ## Main Purpose
-YouTube data analyzation, deductive reasoning and parameters prediction
+YouTube data analysis, deductive reasoning, and parameters prediction
 
 ## Acquisition
 * Data from kaggele
@@ -12,13 +12,13 @@ YouTube data analyzation, deductive reasoning and parameters prediction
 * Exploring & improving the data
 * Format normalization
 * Nulls handling
-* Outliners handling
+* Outliers handling
 
 
 ## Visualisation
 * Explaining the data through graphs
 
 ## Machine Learning
-* Predicting amount of likes for a video
+* Predicting the amount of likes for a video
 
 
